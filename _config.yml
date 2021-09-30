@@ -1,1 +1,5 @@
-theme: jekyll-theme-tactile
+theme: minima
+title: My first page
+header_pages:
+  - about.md
+  - me.md
